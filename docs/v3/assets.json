@@ -77,6 +77,17 @@
     "StatusNote": ""
   },
   {
+    "Id": "9A568ED8-A860-4435-925C-1F44F275CD18",
+    "Title": "PowerApps",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/es-mx/powerapps/powerapps-overview?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+    "SubjectId": "364C5345-75DD-4ACA-9D35-C9506530B37C",
+    "Source": "TiMSource",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
     "Id": "9891764D-C82E-4ABA-B3F3-49211B2C9E3B",
     "Title": "Dynamics 365",
     "Description": "",
