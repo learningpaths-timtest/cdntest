@@ -23,6 +23,16 @@
           "Name": "Provisioning"
         }
       ]
+    },
+    {
+      "Id": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+      "Name": "Ti-M",
+      "Subjects": [
+        {
+          "Id": "364C5345-75DD-4ACA-9D35-C9506530B37C",
+          "Name": "Commercial"
+        }
+      ]
     }
   ],
   "Categories": [
@@ -32,7 +42,7 @@
       "Image": "",
       "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
       "SubjectId": "",
-      "Source": "JulieTurner",
+      "Source": "TiMSource",
       "SubCategories": [
         {
           "Id": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
@@ -40,7 +50,26 @@
           "Image": "images/categories/remote.png",
           "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
           "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-          "Source": "JulieTurner",
+          "Source": "TiMSource",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "E5A8BB8E-78AD-4694-8BFD-A8C06BEF2142",
+      "Name": "Ti-M Learnings",
+      "Image": "",
+      "TechnologyId": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+      "SubjectId": "",
+      "Source": "TiMSource",
+      "SubCategories": [
+        {
+          "Id": "9B109942-7F57-42A0-BDAC-13ED8110D97A",
+          "Name": "Our Products",
+          "Image": "images/categories/timcategory.png",
+          "TechnologyId": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+          "SubjectId": "364C5345-75DD-4ACA-9D35-C9506530B37C",
+          "Source": "TiMSource",
           "SubCategories": []
         }
       ]
@@ -54,10 +83,14 @@
     {
       "Id": "922979ef-2f63-4cfa-9f70-5b36bf1f1c13",
       "Name": "IT Admin"
+    },
+    {
+      "Id": "1BE85E8F-37A8-41EC-9913-3A740624D726",
+      "Name": "Account Manager"
     }
   ],
   "Sources": [
-    "JulieTurner"
+    "TiMSource"
   ],
   "Levels": [
     {
@@ -100,11 +133,12 @@
     "Manifest": "v3",
     "ManifestMinWebPart": "3.0.0",
     "CurrentWebPart": "3.0.0",
-    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+    "RepoURL": "https://github.com/learningpaths-timtest/cdntest"
   },
   "ContentPacks": [],
   "AssetOrigins": [
     "https://support.office.com",
-    "https://docs.microsoft.com"
+    "https://docs.microsoft.com",
+    "https://www.ti-m.com.mx/"
   ]
 }

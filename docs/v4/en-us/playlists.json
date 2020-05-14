@@ -38,5 +38,24 @@
       "9faefc4b-60e8-46ef-892c-791e030a8d28",
       "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
     ]
+  },
+  {
+    "Id": "CECDBF69-B8EE-4D02-A12A-79B3AC93C298",
+    "Title": "Knowing our products",
+    "Image": "images/playlists/remotesite.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "1BE85E8F-37A8-41EC-9913-3A740624D726",
+    "TechnologyId": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+    "SubjectId": "364C5345-75DD-4ACA-9D35-C9506530B37C",
+    "Source": "JulieTurner",
+    "CatId": "9B109942-7F57-42A0-BDAC-13ED8110D97A",
+    "Description": "Learn all about the products that we sell.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "9891764D-C82E-4ABA-B3F3-49211B2C9E3B",
+      "B12CC82A-D3B1-48B2-BF8F-7EE386555E72",
+      "F08A2B01-7CD9-4D99-8155-82D1001B00CC"
+    ]
   }
 ]

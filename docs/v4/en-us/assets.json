@@ -75,5 +75,38 @@
     "Source": "JulieTurner",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "9891764D-C82E-4ABA-B3F3-49211B2C9E3B",
+    "Title": "Dynamics 365",
+    "Description": "",
+    "Url": "https://www.ti-m.com.mx/dynamics-365/soluciones",
+    "TechnologyId": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+    "SubjectId": "364C5345-75DD-4ACA-9D35-C9506530B37C",
+    "Source": "JulieTurner",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "B12CC82A-D3B1-48B2-BF8F-7EE386555E72",
+    "Title": "Microsoft 365",
+    "Description": "",
+    "Url": "https://www.ti-m.com.mx/microsoft-365/soluciones",
+    "TechnologyId": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+    "SubjectId": "364C5345-75DD-4ACA-9D35-C9506530B37C",
+    "Source": "JulieTurner",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "F08A2B01-7CD9-4D99-8155-82D1001B00CC",
+    "Title": "Azure",
+    "Description": "",
+    "Url": "https://www.ti-m.com.mx/azure/soluciones",
+    "TechnologyId": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+    "SubjectId": "364C5345-75DD-4ACA-9D35-C9506530B37C",
+    "Source": "JulieTurner",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]

@@ -6,7 +6,7 @@
     "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-schema?context=context%2Fchromeless&linktarget=true",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
+    "Source": "TiMSource",
     "StatusTagId": "",
     "StatusNote": ""
   },
@@ -17,7 +17,7 @@
     "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-framework?context=context%2Fchromeless&linktarget=true",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
+    "Source": "TiMSource",
     "StatusTagId": "",
     "StatusNote": ""
   },
@@ -28,7 +28,7 @@
     "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-remote-provisioning?context=context%2Fchromeless&linktarget=true",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
+    "Source": "TiMSource",
     "StatusTagId": "",
     "StatusNote": ""
   },
@@ -39,7 +39,7 @@
     "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine?context=context%2Fchromeless&linktarget=true",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
+    "Source": "TiMSource",
     "StatusTagId": "",
     "StatusNote": ""
   },
@@ -50,7 +50,7 @@
     "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-engine-and-the-core-library?context=context%2Fchromeless&linktarget=true",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
+    "Source": "TiMSource",
     "StatusTagId": "",
     "StatusNote": ""
   },
@@ -61,7 +61,7 @@
     "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/provisioning-console-application-sample?context=context%2Fchromeless&linktarget=true",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
+    "Source": "TiMSource",
     "StatusTagId": "",
     "StatusNote": ""
   },
@@ -72,7 +72,29 @@
     "Url": "https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?context=context%2Fchromeless&linktarget=true",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
+    "Source": "TiMSource",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "B12CC82A-D3B1-48B2-BF8F-7EE386555E72",
+    "Title": "Microsoft 365",
+    "Description": "",
+    "Url": "https://www.ti-m.com.mx/microsoft-365/soluciones",
+    "TechnologyId": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+    "SubjectId": "364C5345-75DD-4ACA-9D35-C9506530B37C",
+    "Source": "TiMSource",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "F08A2B01-7CD9-4D99-8155-82D1001B00CC",
+    "Title": "Azure",
+    "Description": "",
+    "Url": "https://www.ti-m.com.mx/azure/soluciones",
+    "TechnologyId": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+    "SubjectId": "364C5345-75DD-4ACA-9D35-C9506530B37C",
+    "Source": "TiMSource",
     "StatusTagId": "",
     "StatusNote": ""
   }
