@@ -77,6 +77,17 @@
     "StatusNote": ""
   },
   {
+    "Id": "9891764D-C82E-4ABA-B3F3-49211B2C9E3B",
+    "Title": "Dynamics 365",
+    "Description": "",
+    "Url": "https://www.ti-m.com.mx/dynamics-365/soluciones",
+    "TechnologyId": "7E83815E-CBE0-47EC-B93C-6C667AC3973E",
+    "SubjectId": "364C5345-75DD-4ACA-9D35-C9506530B37C",
+    "Source": "TiMSource",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
     "Id": "B12CC82A-D3B1-48B2-BF8F-7EE386555E72",
     "Title": "Microsoft 365",
     "Description": "",
